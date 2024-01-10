@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on LambdaScript, a functional programming language inspired by Haskell and OCaml<br>🌱 I’m currently learning deep learning with PyTorch
+📖 I am a CS + Math major at Cornell University concentrating in PL and ML
+<br>
+🐻 I am a software engineer at Cornell CMSX, where I work on improving a course management system used by over 8,000 students each semester
+<br>
+🔭 I’m currently working on LambdaScript, a functional programming language inspired by Haskell and OCaml
+<br>
+🌱 I’m currently learning deep learning with PyTorch
 
+## 🖥️ Personal Website
+
+[![Website](https://img.shields.io/website?label=alexkozik.com&style=for-the-badge&url=https%3A%2F%2Falexkozik.com)](https://alexkozik.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-kozik) 
